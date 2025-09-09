@@ -9,7 +9,7 @@ I'm passionate about open-source technologies, system optimization, and explorin
 ---
 
 ## 📊 GitHub Stats
-<img align="right" width="45%" src="images/jinx-doodle.gif"/>
+<img align="right" width="45%" src="s.gif"/>
 
 ![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=intelligent-ears&show_icons=true&theme=radical)
 
