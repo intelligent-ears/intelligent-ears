@@ -28,10 +28,10 @@ I'm passionate about open-source technologies, system optimization, and explorin
 ## ✨ Some Amazing Open Source Projects
 
 <p align="left">
+  <a href="https://github.com/intelligent-ears/N3"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=ReconX&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="N3"></a>
   <a href="https://github.com/intelligent-ears/ReconX"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=ReconX&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="ReconX"></a>
   <a href="https://github.com/intelligent-ears/SolSniffer"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=SolSniffer&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="SolSniffer"></a>
   <a href="https://crypx0.streamlit.app/"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=crypx&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="CrypX"></a>
-  <a href="https://github.com/intelligent-ears/esp32_timing-attack_simulation"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=esp32_timing-attack_simulation&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="Timing Attack"></a>
   <a href="https://github.com/intelligent-ears/fault_injection_attack_simulation"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=fault_injection_attack_simulation&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="Fault Injection"></a>
   <a href="https://github.com/intelligent-ears/kasumi_implementation"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=kasumi_implementation&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="Kasumi Implementation"></a>
 </p>
