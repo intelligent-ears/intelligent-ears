@@ -28,7 +28,7 @@ I'm passionate about open-source technologies, system optimization, and explorin
 ## ✨ Some Amazing Open Source Projects
 
 <p align="left">
-  <a href="https://github.com/intelligent-ears/N3"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=ReconX&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="N3"></a>
+  <a href="https://github.com/intelligent-ears/N3"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=N3&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="N3"></a>
   <a href="https://github.com/intelligent-ears/ReconX"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=ReconX&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="ReconX"></a>
   <a href="https://github.com/intelligent-ears/SolSniffer"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=SolSniffer&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="SolSniffer"></a>
   <a href="https://crypx0.streamlit.app/"><img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=intelligent-ears&repo=crypx&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="CrypX"></a>
